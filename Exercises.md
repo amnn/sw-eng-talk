@@ -41,19 +41,19 @@ Modify your code for drawing a triangle so that it draws a square instead.
 ## The `repeat` command
 
 We can simplify our code using the `repeat` command. `repeat` takes a number,
-and a sequence of commands, and it runs the sequences repeatedly, that number
+and a sequence of commands, and it runs the sequence repeatedly, that number
 of times.
 
 Use the answers to the questions from the previous section to convert your
-square drawing code so that it uses a `repeat`.
+square drawing code so that it uses a `repeat` block.
 
 ## Variables
 
-Introduce a `sides` variable (in the `Data` section). We will set it to the
-number of sides we are going to draw before the repeat statement starts.
+Introduce a `sides` variable (see the `Data` section). Before the repeat
+command, we will set it to the number of sides we are going to draw.
 
 Replace numbers in the rest of the code with mathematical operations involving
-the `sides` variable.
+the `sides` variable, where you think they make sense.
 
 ## Spirals
 
