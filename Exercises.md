@@ -2,6 +2,7 @@
 
 ## Drawing a Triangle
 Firstly, let us try and draw an equilateral triangle, in Scratch.
+
 Remember:
 
  * All the sides must have the same length
@@ -9,13 +10,13 @@ Remember:
 
 For this, we want to use the tools in the *Pens* and *Motion* sections.
 
-### New Commands
-#### Pen
+#### New Commands
+##### Pen
  * `clear` Removes all pen marks from the screen.
  * `pen down` Place the pen down, so that movement causes a pen mark to
    appear in the path the sprite moves along.
 
-#### Motion
+##### Motion
  * `move` Move the sprite a set number of steps.
  * `turn (right)` Turn the sprite by a set number of degrees right.
 
@@ -58,6 +59,7 @@ the `sides` variable, where you think they make sense.
 ## Spirals
 
 ![Spirals](https://raw.githubusercontent.com/asQuirreL/sw-eng-talk/master/Spirals.png)
+
 Instead of just drawing shapes, let us instead draw some spirals (see picture).
 
 Spirals look very similar to the shapes we were drawing before, the only
