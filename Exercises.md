@@ -57,6 +57,7 @@ the `sides` variable, where you think they make sense.
 
 ## Spirals
 
+![Spirals](https://raw.githubusercontent.com/asQuirreL/sw-eng-talk/master/Spirals.png)
 Instead of just drawing shapes, let us instead draw some spirals (see picture).
 
 Spirals look very similar to the shapes we were drawing before, the only
